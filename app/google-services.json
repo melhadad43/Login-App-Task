@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906225053463",
+    "firebase_url": "https://login-app-task.firebaseio.com",
+    "project_id": "login-app-task",
+    "storage_bucket": "login-app-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906225053463:android:a039e3a90141fc7ee09152",
+        "android_client_info": {
+          "package_name": "com.example.loginapptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906225053463-28bas5ii26jimaoob09l9oejnq01rm0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1JdrLtI8Hq0AkvcHnNqzr0S0QBMAozn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906225053463-28bas5ii26jimaoob09l9oejnq01rm0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
